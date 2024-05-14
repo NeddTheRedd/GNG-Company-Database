@@ -16,3 +16,42 @@ Here is the E/R Diagram, which is a visual representation of the entities and th
 <br>
 
 ![gng-model-main](https://github.com/NeddTheRedd/GNG-Company-Database/assets/153869055/f05baa56-2ef2-447e-b93c-62d991b7f444)
+
+<br>
+
+---
+### Query Demonstrations
+
+Below are demonstrations of several queries along with their results:
+
+---
+
+#### Query 1: Campaign Expenses after August 8th, 2024
+
+**Description**: Return all campaign expenses incurred after August 8th, 2024, and indicate the campaign they were used for.
+
+<img width="685" alt="Screen Shot 2024-05-14 at 4 21 29 PM" src="https://github.com/NeddTheRedd/GNG-Company-Database/assets/153869055/8a0067d8-1310-422f-a82c-637b0957e836">
+
+<br>
+
+**Result**: 
+
+<img width="804" alt="Screen Shot 2024-05-14 at 4 21 56 PM" src="https://github.com/NeddTheRedd/GNG-Company-Database/assets/153869055/fd257504-dee9-4abe-8f5d-73444490b93b">
+
+---
+
+#### Query 2: GNG Affiliates who are Both Members and Volunteers
+
+**Description**: Return the member names and company names of GNG affiliates whose staff are both members and volunteers of GNG.
+
+<img width="400" alt="Screen Shot 2024-05-14 at 4 39 06 PM" src="https://github.com/NeddTheRedd/GNG-Company-Database/assets/153869055/5ece979a-b6d3-40cf-aa69-081010072641">
+
+<br>
+
+**Result**:
+
+<img width="265" alt="Screen Shot 2024-05-14 at 4 38 53 PM" src="https://github.com/NeddTheRedd/GNG-Company-Database/assets/153869055/05828fb0-cc76-44c2-9a0b-fbac208cf81f">
+
+
+
+
