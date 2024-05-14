@@ -3,7 +3,7 @@
 This project showcases a relational database design for "Green-Not-Greed," a fictional non-profit organization. It demonstrates proficiency in SQL, Python, and database infrastructure concepts. <br>
 
 The database schema manages information about the organization, its members, campaigns, and other aspects. <br>
-The database can be re-created using the [construct](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng-construct.sql), or [replica](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng_dump.sql), of my database. The script populates the database with sample data. <br>
+The database can be re-created using the [construct](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng-construct.sql), or [replica](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng_dump.sql), of our database. The script populates the database with sample data. <br>
 
 ---
 The project also includes a Python user interface for interacting with the database, demonstrating additional skills in application development. The program for our UI can be found [here](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng.py). <br>
