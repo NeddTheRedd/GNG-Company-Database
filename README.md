@@ -3,10 +3,10 @@
 This project showcases a relational database design for "Green-Not-Greed," a fictional non-profit organization. It demonstrates proficiency in SQL, Python, and database infrastructure concepts. <br>
 
 ### Index
-* [Database](DB)
-* [User Interface](UI)
-* [E/R Diagram](ER)
-* [Query Demonstrations](Query)
+* [Database](#DB)
+* [User Interface](#UI)
+* [E/R Diagram](#ER)
+* [Query Demonstrations](#Query)
 
 ---
 ### Database
