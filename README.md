@@ -12,7 +12,7 @@ This project showcases a relational database design for "Green-Not-Greed," a fic
 ### Database
 <a name="DB"></a>
 
-The database schema manages information about the organization, its members, campaigns, and other aspects. It can be built and deployed using PostgreSQL and the [construct](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng-construct.sql) SQL files. The script populates the database with sample data. <br>
+The database schema manages information about the organization, its members, campaigns, and other aspects. It can be built and deployed using PostgreSQL and the database [construct](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng-construct.sql) SQL files. The script populates the database with sample data. <br>
 
 Install PostgreSQL here: [https://www.postgresql.org/download/](https://www.postgresql.org/download/).
 
