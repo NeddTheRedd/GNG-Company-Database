@@ -19,6 +19,7 @@ Install PostgreSQL here: [https://www.postgresql.org/download/](https://www.post
 ---
 ### User Interface
 <a name="UI"></a>
+
 The project also includes a Python user interface for interacting with the database, demonstrating additional skills in application development. The program for our UI can be found [here](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng.py). <br>
 
 ---
