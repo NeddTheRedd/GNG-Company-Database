@@ -16,8 +16,8 @@ The database schema manages information about the organization, its members, cam
 
 Install PostgreSQL here: [https://www.postgresql.org/download/](https://www.postgresql.org/download/).
 
-### User Interface
 ---
+### User Interface
 <a name="UI"></a>
 
 The project also includes a Python user interface for interacting with the database, demonstrating additional skills in application development. The program for our UI can be found [here](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng.py). <br>
