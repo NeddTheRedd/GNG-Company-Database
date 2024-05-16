@@ -9,6 +9,7 @@ This project showcases a relational database design for "Green-Not-Greed," a fic
 * [Query Demonstrations](#Query)
 
 ---
+
 ### Database
 <a name="DB"></a>
 
@@ -17,12 +18,14 @@ The database schema manages information about the organization, its members, cam
 Install PostgreSQL here: [https://www.postgresql.org/download/](https://www.postgresql.org/download/).
 
 ---
+
 ### User Interface
 <a name="UI"></a>
 
 The project also includes a Python user interface for interacting with the database, demonstrating additional skills in application development. The program for our UI can be found [here](https://github.com/NeddTheRedd/GNG-Company-Database/blob/main/gng.py). <br>
 
 ---
+
 ### E/R Diagram
 <a name="ER"></a>
 
@@ -35,6 +38,7 @@ Here is the E/R Diagram, which is a visual representation of the entities and th
 <br>
 
 ---
+
 ### Query Demonstrations
 <a name="Query"></a>
 
